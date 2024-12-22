@@ -1,0 +1,546 @@
+------------------------------------------------------
+Dataset: lin105.tsp
+------------------------------------------------------
+
+Nearest Neighbour Tour Cost: 20362.8
+Nearest Insertion Tour Cost: 16934.6
+Greedy Tour Cost: 16771.8
+MST Tour Cost: 20332.6
+
+Two-Opt Tour Cost (from NN): 18701
+Two-Opt Tour Cost (from NI): 15736
+Two-Opt Tour Cost (from Greedy): 15727
+Two-Opt Tour Cost (from MST): 17086
+
+Node Shift Tour Cost (from NN): 18080
+Node Shift Tour Cost (from NI): 16000
+Node Shift Tour Cost (from Greedy): 15040
+Node Shift Tour Cost (from MST): 17132
+
+Node Swap Tour Cost (from NN): 19631
+Node Swap Tour Cost (from NI): 16514
+Node Swap Tour Cost (from Greedy): 16581
+Node Swap Tour Cost (from MST): 18048
+
+
+------------------------------------------------------
+Dataset: ch130.tsp
+------------------------------------------------------
+
+Nearest Neighbour Tour Cost: 7575.29
+Nearest Insertion Tour Cost: 7279.21
+Greedy Tour Cost: 7844.94
+MST Tour Cost: 8128.76
+
+Two-Opt Tour Cost (from NN): 7159
+Two-Opt Tour Cost (from NI): 7038
+Two-Opt Tour Cost (from Greedy): 7097
+Two-Opt Tour Cost (from MST): 6849
+
+Node Shift Tour Cost (from NN): 6971
+Node Shift Tour Cost (from NI): 6595
+Node Shift Tour Cost (from Greedy): 7222
+Node Shift Tour Cost (from MST): 7218
+
+Node Swap Tour Cost (from NN): 7404
+Node Swap Tour Cost (from NI): 6702
+Node Swap Tour Cost (from Greedy): 7684
+Node Swap Tour Cost (from MST): 7630
+
+
+------------------------------------------------------
+Dataset: kroB100.tsp
+------------------------------------------------------
+
+Nearest Neighbour Tour Cost: 29155
+Nearest Insertion Tour Cost: 27566.8
+Greedy Tour Cost: 25815.2
+MST Tour Cost: 25881.2
+
+Two-Opt Tour Cost (from NN): 25288
+Two-Opt Tour Cost (from NI): 27256
+Two-Opt Tour Cost (from Greedy): 24250
+Two-Opt Tour Cost (from MST): 23433
+
+Node Shift Tour Cost (from NN): 24578
+Node Shift Tour Cost (from NI): 24684
+Node Shift Tour Cost (from Greedy): 22906
+Node Shift Tour Cost (from MST): 23393
+
+Node Swap Tour Cost (from NN): 28594
+Node Swap Tour Cost (from NI): 26316
+Node Swap Tour Cost (from Greedy): 24976
+Node Swap Tour Cost (from MST): 25087
+
+
+------------------------------------------------------
+Dataset: berlin52.tsp
+------------------------------------------------------
+
+Nearest Neighbour Tour Cost: 8980.92
+Nearest Insertion Tour Cost: 9574.02
+Greedy Tour Cost: 9954.06
+MST Tour Cost: 10116
+
+Two-Opt Tour Cost (from NN): 8635
+Two-Opt Tour Cost (from NI): 8781
+Two-Opt Tour Cost (from Greedy): 9360
+Two-Opt Tour Cost (from MST): 8719
+
+Node Shift Tour Cost (from NN): 8320
+Node Shift Tour Cost (from NI): 8431
+Node Shift Tour Cost (from Greedy): 8286
+Node Shift Tour Cost (from MST): 8347
+
+Node Swap Tour Cost (from NN): 8519
+Node Swap Tour Cost (from NI): 9260
+Node Swap Tour Cost (from Greedy): 9058
+Node Swap Tour Cost (from MST): 9109
+
+
+------------------------------------------------------
+Dataset: eil51.tsp
+------------------------------------------------------
+
+Nearest Neighbour Tour Cost: 513.61
+Nearest Insertion Tour Cost: 483.589
+Greedy Tour Cost: 481.519
+MST Tour Cost: 640.901
+
+Two-Opt Tour Cost (from NN): 472
+Two-Opt Tour Cost (from NI): 475
+Two-Opt Tour Cost (from Greedy): 474
+Two-Opt Tour Cost (from MST): 467
+
+Node Shift Tour Cost (from NN): 460
+Node Shift Tour Cost (from NI): 450
+Node Shift Tour Cost (from Greedy): 451
+Node Shift Tour Cost (from MST): 487
+
+Node Swap Tour Cost (from NN): 473
+Node Swap Tour Cost (from NI): 476
+Node Swap Tour Cost (from Greedy): 467
+Node Swap Tour Cost (from MST): 541
+
+
+------------------------------------------------------
+Dataset: kroD100.tsp
+------------------------------------------------------
+
+Nearest Neighbour Tour Cost: 26950.5
+Nearest Insertion Tour Cost: 26891.7
+Greedy Tour Cost: 24450.5
+MST Tour Cost: 27113.3
+
+Two-Opt Tour Cost (from NN): 24794
+Two-Opt Tour Cost (from NI): 25771
+Two-Opt Tour Cost (from Greedy): 23036
+Two-Opt Tour Cost (from MST): 23687
+
+Node Shift Tour Cost (from NN): 24448
+Node Shift Tour Cost (from NI): 23838
+Node Shift Tour Cost (from Greedy): 22957
+Node Shift Tour Cost (from MST): 23150
+
+Node Swap Tour Cost (from NN): 26580
+Node Swap Tour Cost (from NI): 26190
+Node Swap Tour Cost (from Greedy): 23701
+Node Swap Tour Cost (from MST): 24782
+
+
+------------------------------------------------------
+Dataset: ch150.tsp
+------------------------------------------------------
+
+Nearest Neighbour Tour Cost: 8194.61
+Nearest Insertion Tour Cost: 8555.06
+Greedy Tour Cost: 7743.04
+MST Tour Cost: 8333.47
+
+Two-Opt Tour Cost (from NN): 7385
+Two-Opt Tour Cost (from NI): 7789
+Two-Opt Tour Cost (from Greedy): 7402
+Two-Opt Tour Cost (from MST): 7104
+
+Node Shift Tour Cost (from NN): 7328
+Node Shift Tour Cost (from NI): 7066
+Node Shift Tour Cost (from Greedy): 6925
+Node Shift Tour Cost (from MST): 7310
+
+Node Swap Tour Cost (from NN): 8065
+Node Swap Tour Cost (from NI): 8165
+Node Swap Tour Cost (from Greedy): 7626
+Node Swap Tour Cost (from MST): 7649
+
+
+------------------------------------------------------
+Dataset: a280.tsp
+------------------------------------------------------
+
+Nearest Neighbour Tour Cost: 3148.11
+Nearest Insertion Tour Cost: 3141.66
+Greedy Tour Cost: 3228.13
+MST Tour Cost: 3830.78
+
+Two-Opt Tour Cost (from NN): 2867
+Two-Opt Tour Cost (from NI): 2932
+Two-Opt Tour Cost (from Greedy): 3063
+Two-Opt Tour Cost (from MST): 3072
+
+Node Shift Tour Cost (from NN): 2889
+Node Shift Tour Cost (from NI): 2811
+Node Shift Tour Cost (from Greedy): 2875
+Node Shift Tour Cost (from MST): 3060
+
+Node Swap Tour Cost (from NN): 3089
+Node Swap Tour Cost (from NI): 3082
+Node Swap Tour Cost (from Greedy): 3135
+Node Swap Tour Cost (from MST): 3506
+
+
+------------------------------------------------------
+Dataset: pr76.tsp
+------------------------------------------------------
+
+Nearest Neighbour Tour Cost: 153462
+Nearest Insertion Tour Cost: 126633
+Greedy Tour Cost: 147498
+MST Tour Cost: 144015
+
+Two-Opt Tour Cost (from NN): 127731
+Two-Opt Tour Cost (from NI): 122546
+Two-Opt Tour Cost (from Greedy): 131836
+Two-Opt Tour Cost (from MST): 123469
+
+Node Shift Tour Cost (from NN): 131324
+Node Shift Tour Cost (from NI): 117798
+Node Shift Tour Cost (from Greedy): 131195
+Node Shift Tour Cost (from MST): 124524
+
+Node Swap Tour Cost (from NN): 130066
+Node Swap Tour Cost (from NI): 120442
+Node Swap Tour Cost (from Greedy): 141553
+Node Swap Tour Cost (from MST): 137823
+
+
+------------------------------------------------------
+Dataset: rat195.tsp
+------------------------------------------------------
+
+Nearest Neighbour Tour Cost: 2761.96
+Nearest Insertion Tour Cost: 2814.57
+Greedy Tour Cost: 2758.04
+MST Tour Cost: 3329.67
+
+Two-Opt Tour Cost (from NN): 2520
+Two-Opt Tour Cost (from NI): 2692
+Two-Opt Tour Cost (from Greedy): 2614
+Two-Opt Tour Cost (from MST): 2546
+
+Node Shift Tour Cost (from NN): 2528
+Node Shift Tour Cost (from NI): 2507
+Node Shift Tour Cost (from Greedy): 2510
+Node Shift Tour Cost (from MST): 2609
+
+Node Swap Tour Cost (from NN): 2690
+Node Swap Tour Cost (from NI): 2671
+Node Swap Tour Cost (from Greedy): 2726
+Node Swap Tour Cost (from MST): 2904
+
+
+------------------------------------------------------
+Dataset: kroA100.tsp
+------------------------------------------------------
+
+Nearest Neighbour Tour Cost: 26856.4
+Nearest Insertion Tour Cost: 27080.1
+Greedy Tour Cost: 24197.3
+MST Tour Cost: 27211.7
+
+Two-Opt Tour Cost (from NN): 23747
+Two-Opt Tour Cost (from NI): 25109
+Two-Opt Tour Cost (from Greedy): 23358
+Two-Opt Tour Cost (from MST): 23815
+
+Node Shift Tour Cost (from NN): 23215
+Node Shift Tour Cost (from NI): 24336
+Node Shift Tour Cost (from Greedy): 22175
+Node Shift Tour Cost (from MST): 24289
+
+Node Swap Tour Cost (from NN): 24274
+Node Swap Tour Cost (from NI): 25457
+Node Swap Tour Cost (from Greedy): 22624
+Node Swap Tour Cost (from MST): 25032
+
+
+------------------------------------------------------
+Dataset: bier127.tsp
+------------------------------------------------------
+
+Nearest Neighbour Tour Cost: 135752
+Nearest Insertion Tour Cost: 139045
+Greedy Tour Cost: 143211
+MST Tour Cost: 158543
+
+Two-Opt Tour Cost (from NN): 129507
+Two-Opt Tour Cost (from NI): 137265
+Two-Opt Tour Cost (from Greedy): 135967
+Two-Opt Tour Cost (from MST): 137655
+
+Node Shift Tour Cost (from NN): 123696
+Node Shift Tour Cost (from NI): 133028
+Node Shift Tour Cost (from Greedy): 130478
+Node Shift Tour Cost (from MST): 138777
+
+Node Swap Tour Cost (from NN): 128578
+Node Swap Tour Cost (from NI): 137277
+Node Swap Tour Cost (from Greedy): 131962
+Node Swap Tour Cost (from MST): 147800
+
+
+------------------------------------------------------
+Dataset: kroC100.tsp
+------------------------------------------------------
+
+Nearest Neighbour Tour Cost: 26327.4
+Nearest Insertion Tour Cost: 26350.9
+Greedy Tour Cost: 23432.9
+MST Tour Cost: 27966.5
+
+Two-Opt Tour Cost (from NN): 23480
+Two-Opt Tour Cost (from NI): 25992
+Two-Opt Tour Cost (from Greedy): 22427
+Two-Opt Tour Cost (from MST): 23355
+
+Node Shift Tour Cost (from NN): 23827
+Node Shift Tour Cost (from NI): 23476
+Node Shift Tour Cost (from Greedy): 22194
+Node Shift Tour Cost (from MST): 24822
+
+Node Swap Tour Cost (from NN): 25667
+Node Swap Tour Cost (from NI): 25683
+Node Swap Tour Cost (from Greedy): 22652
+Node Swap Tour Cost (from MST): 26964
+
+
+------------------------------------------------------
+Dataset: eil76.tsp
+------------------------------------------------------
+
+Nearest Neighbour Tour Cost: 711.993
+Nearest Insertion Tour Cost: 615.401
+Greedy Tour Cost: 617.131
+MST Tour Cost: 703.635
+
+Two-Opt Tour Cost (from NN): 634
+Two-Opt Tour Cost (from NI): 615
+Two-Opt Tour Cost (from Greedy): 611
+Two-Opt Tour Cost (from MST): 595
+
+Node Shift Tour Cost (from NN): 582
+Node Shift Tour Cost (from NI): 590
+Node Shift Tour Cost (from Greedy): 570
+Node Shift Tour Cost (from MST): 601
+
+Node Swap Tour Cost (from NN): 644
+Node Swap Tour Cost (from NI): 601
+Node Swap Tour Cost (from Greedy): 601
+Node Swap Tour Cost (from MST): 618
+
+
+------------------------------------------------------
+Dataset: pr124.tsp
+------------------------------------------------------
+
+Nearest Neighbour Tour Cost: 69299.4
+Nearest Insertion Tour Cost: 65318.2
+Greedy Tour Cost: 64997.3
+MST Tour Cost: 75177.5
+
+Two-Opt Tour Cost (from NN): 63093
+Two-Opt Tour Cost (from NI): 63701
+Two-Opt Tour Cost (from Greedy): 64279
+Two-Opt Tour Cost (from MST): 65311
+
+Node Shift Tour Cost (from NN): 64381
+Node Shift Tour Cost (from NI): 61832
+Node Shift Tour Cost (from Greedy): 61369
+Node Shift Tour Cost (from MST): 65447
+
+Node Swap Tour Cost (from NN): 65186
+Node Swap Tour Cost (from NI): 63935
+Node Swap Tour Cost (from Greedy): 64231
+Node Swap Tour Cost (from MST): 70258
+
+
+------------------------------------------------------
+Dataset: eil101.tsp
+------------------------------------------------------
+
+Nearest Neighbour Tour Cost: 825.242
+Nearest Insertion Tour Cost: 750.606
+Greedy Tour Cost: 767.012
+MST Tour Cost: 832.222
+
+Two-Opt Tour Cost (from NN): 720
+Two-Opt Tour Cost (from NI): 749
+Two-Opt Tour Cost (from Greedy): 716
+Two-Opt Tour Cost (from MST): 710
+
+Node Shift Tour Cost (from NN): 692
+Node Shift Tour Cost (from NI): 676
+Node Shift Tour Cost (from Greedy): 681
+Node Shift Tour Cost (from MST): 704
+
+Node Swap Tour Cost (from NN): 773
+Node Swap Tour Cost (from NI): 698
+Node Swap Tour Cost (from Greedy): 720
+Node Swap Tour Cost (from MST): 716
+
+
+------------------------------------------------------
+Dataset: lin318.tsp
+------------------------------------------------------
+
+Nearest Neighbour Tour Cost: 54033.6
+Nearest Insertion Tour Cost: 49454.8
+Greedy Tour Cost: 49910.5
+MST Tour Cost: 58731.9
+
+Two-Opt Tour Cost (from NN): 50047
+Two-Opt Tour Cost (from NI): 46387
+Two-Opt Tour Cost (from Greedy): 47302
+Two-Opt Tour Cost (from MST): 47874
+
+Node Shift Tour Cost (from NN): 49519
+Node Shift Tour Cost (from NI): 46301
+Node Shift Tour Cost (from Greedy): 44866
+Node Shift Tour Cost (from MST): 48809
+
+Node Swap Tour Cost (from NN): 53239
+Node Swap Tour Cost (from NI): 48296
+Node Swap Tour Cost (from Greedy): 48458
+Node Swap Tour Cost (from MST): 53135
+
+
+------------------------------------------------------
+Dataset: st70.tsp
+------------------------------------------------------
+
+Nearest Neighbour Tour Cost: 805.531
+Nearest Insertion Tour Cost: 802.021
+Greedy Tour Cost: 746.044
+MST Tour Cost: 873.351
+
+Two-Opt Tour Cost (from NN): 757
+Two-Opt Tour Cost (from NI): 787
+Two-Opt Tour Cost (from Greedy): 731
+Two-Opt Tour Cost (from MST): 758
+
+Node Shift Tour Cost (from NN): 750
+Node Shift Tour Cost (from NI): 750
+Node Shift Tour Cost (from Greedy): 712
+Node Shift Tour Cost (from MST): 753
+
+Node Swap Tour Cost (from NN): 766
+Node Swap Tour Cost (from NI): 742
+Node Swap Tour Cost (from Greedy): 718
+Node Swap Tour Cost (from MST): 768
+
+
+------------------------------------------------------
+Dataset: rat99.tsp
+------------------------------------------------------
+
+Nearest Neighbour Tour Cost: 1564.72
+Nearest Insertion Tour Cost: 1482.02
+Greedy Tour Cost: 1481.1
+MST Tour Cost: 1717.28
+
+Two-Opt Tour Cost (from NN): 1387
+Two-Opt Tour Cost (from NI): 1353
+Two-Opt Tour Cost (from Greedy): 1400
+Two-Opt Tour Cost (from MST): 1402
+
+Node Shift Tour Cost (from NN): 1364
+Node Shift Tour Cost (from NI): 1279
+Node Shift Tour Cost (from Greedy): 1261
+Node Shift Tour Cost (from MST): 1371
+
+Node Swap Tour Cost (from NN): 1455
+Node Swap Tour Cost (from NI): 1412
+Node Swap Tour Cost (from Greedy): 1338
+Node Swap Tour Cost (from MST): 1475
+
+
+------------------------------------------------------
+Dataset: pr144.tsp
+------------------------------------------------------
+
+Nearest Neighbour Tour Cost: 61650.7
+Nearest Insertion Tour Cost: 73033.1
+Greedy Tour Cost: 65845.7
+MST Tour Cost: 80596.3
+
+Two-Opt Tour Cost (from NN): 61630
+Two-Opt Tour Cost (from NI): 60530
+Two-Opt Tour Cost (from Greedy): 63434
+Two-Opt Tour Cost (from MST): 63354
+
+Node Shift Tour Cost (from NN): 61012
+Node Shift Tour Cost (from NI): 72116
+Node Shift Tour Cost (from Greedy): 62449
+Node Shift Tour Cost (from MST): 76966
+
+Node Swap Tour Cost (from NN): 61264
+Node Swap Tour Cost (from NI): 72562
+Node Swap Tour Cost (from Greedy): 65726
+Node Swap Tour Cost (from MST): 80347
+
+
+------------------------------------------------------
+Dataset: kroE100.tsp
+------------------------------------------------------
+
+Nearest Neighbour Tour Cost: 27587.2
+Nearest Insertion Tour Cost: 27891.6
+Greedy Tour Cost: 24847.1
+MST Tour Cost: 30507.4
+
+Two-Opt Tour Cost (from NN): 24535
+Two-Opt Tour Cost (from NI): 26571
+Two-Opt Tour Cost (from Greedy): 23643
+Two-Opt Tour Cost (from MST): 24002
+
+Node Shift Tour Cost (from NN): 25374
+Node Shift Tour Cost (from NI): 25073
+Node Shift Tour Cost (from Greedy): 22715
+Node Shift Tour Cost (from MST): 25087
+
+Node Swap Tour Cost (from NN): 26041
+Node Swap Tour Cost (from NI): 27623
+Node Swap Tour Cost (from Greedy): 23430
+Node Swap Tour Cost (from MST): 27012
+
+
+
+------------------------------------------------------
+Total number of .tsp files processed: 21
+------------------------------------------------------
+Average Tour Costs: 
+Two Opt: 
+Average Two-Opt Tour Cost (from NN): 28813.8
+Average Two-Opt Tour Cost (from NI): 29051.2
+Average Two-Opt Tour Cost (from Greedy): 28987
+Average Two-Opt Tour Cost (from MST): 28822
+Node Shift: 
+Average Node Shift Tour Cost (from NN): 28635.1
+Average Node Shift Tour Cost (from NI): 28554.1
+Average Node Shift Tour Cost (from Greedy): 28087.5
+Average Node Shift Tour Cost (from MST): 29755
+Node Swap: 
+Average Node Swap Tour Cost (from NN): 29666.6
+Average Node Swap Tour Cost (from NI): 29719.2
+Average Node Swap Tour Cost (from Greedy): 29522.2
+Average Node Swap Tour Cost (from MST): 31962.1
+------------------------------------------------------
